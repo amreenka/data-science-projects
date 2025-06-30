@@ -1,10 +1,10 @@
-# 🧠 Data Science Projects Portfolio
+# Data Science Projects Portfolio
 
 Welcome! This repository contains my data science project work as I learn and apply core concepts from online courses and hands-on exercises. These projects explore real-world datasets and use various techniques to analyze, visualize, and model data using Python.
 
 ---
 
-## 📁 Projects Overview
+## Projects Overview
 
 | Project | Description | Techniques Used |
 |--------|-------------|----------------|
@@ -14,7 +14,7 @@ Welcome! This repository contains my data science project work as I learn and ap
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 ### 📊 Data Analysis & Visualization
 - **Pandas**: Data wrangling, cleaning, and exploration  
@@ -34,7 +34,7 @@ Welcome! This repository contains my data science project work as I learn and ap
 
 ---
 
-## 📚 Dataset
+## Dataset
 
 Projects primarily use publicly available datasets (e.g., King County housing data). If a dataset isn't included due to licensing, links to original sources or placeholders are provided.
 
