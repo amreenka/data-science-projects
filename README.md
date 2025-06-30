@@ -9,8 +9,7 @@ Welcome! This repository contains my data science project work as I learn and ap
 | Project | Description | Techniques Used |
 |--------|-------------|----------------|
 | **House Price Prediction** | Analyze housing prices in King County and build predictive models using regression techniques | `LinearRegression`, `Ridge`, `PolynomialFeatures`, `Seaborn`, `Matplotlib`, `Pandas`, `R² Score` |
-| **Data Science Ecosystem** | Overview of the data science ecosystem including tools, languages, and key terminology | `Markdown`, `Jupyter Notebook`, `Data Science Concepts` |
-| **Final Assignment (Capstone-style)** | Summary project combining core Python, Markdown, and notebook skills from early coursework | `Python`, `Jupyter`, `Data Types`, `Basic Arithmetic`, `Markdown` |
+| **Extracting and Visualizing Stock Data** | Summary project combining core Python, Markdown, and notebook skills from early coursework | `Python`, `Jupyter`, `Data Types`, `Basic Arithmetic`, `Markdown` |
 
 ---
 
