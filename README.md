@@ -15,18 +15,18 @@ Welcome! This repository contains my data science project work as I learn and ap
 
 ##  Skills & Tools
 
-### 📊 Data Analysis & Visualization
+### Data Analysis & Visualization
 - **Pandas**: Data wrangling, cleaning, and exploration  
 - **Matplotlib** & **Seaborn**: Visualization of trends, distributions, and model diagnostics  
 
-### 🤖 Machine Learning
+### Machine Learning
 - **scikit-learn**:  
   - Linear & Ridge Regression  
   - Model evaluation (R², `.score()`, `.predict()`)  
   - Polynomial feature generation  
   - Train/test splitting
 
-### 📒 Notebook Authoring & Communication
+### Notebook Authoring & Communication
 - **Jupyter Notebook**
 - **Markdown**: Headings, tables, and inline explanations
 - **Python basics**: Variables, arithmetic, data types, functions
